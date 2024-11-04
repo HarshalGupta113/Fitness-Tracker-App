@@ -22,16 +22,16 @@ An Android app designed to help users monitor and achieve their fitness goals. D
 
 ### Home Screen - Step Tracking  
 Displays the user's steps, goal, and progress in a clean, minimal layout.
-![Home Screen - Step Tracking](Screenshots/home_screen.png)
+![Home Screen - Step Tracking](Screenshot/home_screen.png)
 
 ### BMI Calculator  
 Select your gender, input height and weight, and get an instant BMI result with categorized health suggestions.
-![Home Screen - Step Tracking](Screenshots/bmi_calculator_1.png)
-![Home Screen - Step Tracking](Screenshots/bmi_calculator_2.png)
+![Home Screen - Step Tracking](Screenshot/bmi_calculator_1.png)
+![Home Screen - Step Tracking](Screenshot/bmi_calculator_2.png)
 
 ### Weekly Step Chart  
 A graphical view of the past week's steps, allowing users to track their fitness trends and set new goals.
-![Home Screen - Step Tracking](Screenshots/step_tracker.png)
+![Home Screen - Step Tracking](Screenshot/step_tracker.png)
 
 ---
 
