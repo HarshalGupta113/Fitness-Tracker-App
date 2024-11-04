@@ -1,6 +1,3 @@
-Here's a **README.md** file for your fitness tracker app on GitHub.
-
----
 
 # Fitness Tracker App
 
@@ -25,12 +22,16 @@ An Android app designed to help users monitor and achieve their fitness goals. D
 
 ### Home Screen - Step Tracking  
 Displays the user's steps, goal, and progress in a clean, minimal layout.
+![Home Screen - Step Tracking](screenshots/home_screen.png)
 
 ### BMI Calculator  
 Select your gender, input height and weight, and get an instant BMI result with categorized health suggestions.
+![Home Screen - Step Tracking](screenshots/bmi_calculator_1.png)
+![Home Screen - Step Tracking](screenshots/bmi_calculator_2.png)
 
 ### Weekly Step Chart  
 A graphical view of the past week's steps, allowing users to track their fitness trends and set new goals.
+![Home Screen - Step Tracking](screenshots/step_tracker.png)
 
 ---
 
@@ -90,20 +91,6 @@ We welcome contributions! Please submit a pull request or open an issue for any 
 3. Commit your changes (`git commit -m 'Add new feature'`)
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a pull request
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For more information or support, please contact:
-- **Shivesh** - [email@example.com](mailto:email@example.com)
-- **Harshal** - [email@example.com](mailto:email@example.com)
 
 ---
 
